@@ -27,12 +27,18 @@ E : < 40
 
 📊 Contoh Output
 --------------------------------------------------
-Masukkan nilai tugas: 80
-Masukkan nilai UTS: 75
-Masukkan nilai UAS: 90
+Masukkan nilai Tugas : 85
+Masukkan nilai UTS   : 70
+Masukkan nilai UAS   : 90
 
-Nilai akhir: 82.5
-Nilai huruf: B
+===== HASIL NILAI MAHASISWA =====
+Nilai Tugas : 85
+Nilai UTS   : 70
+Nilai UAS   : 90
+---------------------------------
+Nilai Akhir : 81.5
+Grade       : B
+Keterangan  : LULUS
 
 ▶️ Cara Menjalankan Program
 --------------------------------------------------
