@@ -31,13 +31,12 @@ E : < 40
 - Masukkan nilai Tugas : 85
 - Masukkan nilai UTS   : 70
 - Masukkan nilai UAS   : 90
-
-- Hasil nilai Mahasiswa
+---------------------------------
+- Hasil nilai Mahasiswa :
 - Nilai Tugas : 85
 - Nilai UTS   : 70
 - Nilai UAS   : 90
 ---------------------------------
-
 - Nilai Akhir : 81.5
 - Grade       : B
 - Keterangan  : LULUS
