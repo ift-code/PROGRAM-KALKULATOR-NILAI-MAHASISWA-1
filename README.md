@@ -25,7 +25,7 @@ E : < 40
    → Meminta input dari pengguna, memanggil dua fungsi di atas,
      dan menampilkan hasil akhir ke layar.
 
-   📊 Contoh Output
+📊 Contoh Output
 --------------------------------------------------
 Masukkan nilai tugas: 80
 Masukkan nilai UTS: 75
