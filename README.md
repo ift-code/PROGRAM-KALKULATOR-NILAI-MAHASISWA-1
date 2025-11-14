@@ -31,7 +31,7 @@ Masukkan nilai Tugas : 85
 Masukkan nilai UTS   : 70
 Masukkan nilai UAS   : 90
 
-===== HASIL NILAI MAHASISWA =====
+===== Hasil nilai Mahasiswa =====
 Nilai Tugas : 85
 Nilai UTS   : 70
 Nilai UAS   : 90
