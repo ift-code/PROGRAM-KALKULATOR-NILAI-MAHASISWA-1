@@ -7,11 +7,11 @@ UAS (40%)
 Setelah nilai akhir dihitung, program juga akan menentukan nilai huruf
 (A, B, C, D, atau E) sesuai dengan rentang nilai berikut:
 
-A : 85 – 100
-B : 70 – 84
-C : 55 – 69
-D : 40 – 54
-E : < 40
+- A : 85 – 100
+- B : 70 – 84
+- C : 55 – 69
+- D : 40 – 54
+- E : < 40
 --------------------------------------------------
 
 📂 Struktur Program
